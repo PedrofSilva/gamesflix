@@ -1,7 +1,10 @@
 # GamesFlix
 
 <p> Recriando a interface Netflix com uma roupagem de Games. </p>
-<p> O usuário ao clicar no jogo desejado é apresentado um breve trailer do jogo na parte central da tela.</p>
+<p> O usuário ao clicar no jogo desejado é apresentado um breve trailer do jogo na parte central da tela. </p>
+<p>Com um Carousel para facilitar a dinâmica de selecionar o jogo.</p>
+
+<br>
 
 <h3 align="left">Linguagens Utilizadas</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank">
