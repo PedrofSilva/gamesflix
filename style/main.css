@@ -216,6 +216,8 @@ header nav a:hover{
 
     .botao , .botao-info{
         font-size: 10px;
+        padding: 10px 20px;
+        margin-right: 0px;
         margin-bottom: 5px;
     }
 
