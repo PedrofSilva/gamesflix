@@ -215,7 +215,8 @@ header nav a:hover{
     }
 
     .botao , .botao-info{
-        font-size: 12px;
+        font-size: 10px;
+        margin-bottom: 5px;
     }
 
     .animacao-logo-gamesflix , .svg-play-gamesflix , .svg-gamesflix {
