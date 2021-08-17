@@ -13,7 +13,9 @@
 <a href="https://jquery.com" target="_blank">
 <img src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://owlcarousel2.github.io/OwlCarousel2/" target="_blank">
+<img src="https://owlcarousel2.github.io/OwlCarousel2/assets/img/owl-logo.png" alt="git" width="30" height="40"/> </a> 
 </p>
 
 <h4> O projeto tem como base as aulas do Felipe Aguiar na Digital Innovation One </h4>
