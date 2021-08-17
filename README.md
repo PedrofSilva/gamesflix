@@ -1,12 +1,12 @@
 # GamesFlix
 
-<p> Recriando a interface Netflix com uma roupagem de Games. </p>
-<p> O usuário ao clicar no jogo desejado é apresentado um breve trailer do jogo na parte central da tela. </p>
-<p> Com um Carousel para facilitar a dinâmica de selecionar o jogo.</p>
+#### Recriando a interface Netflix com uma roupagem de Games.
+#### O usuário ao clicar no jogo desejado é apresentado um breve trailer do jogo na parte central da tela.
+#### Com um Carousel para facilitar a dinâmica de selecionar o jogo.
 
 <br>
 
-## Contendo uma Breve Animação de início
+## Contendo uma Breve Animação de Início
 
 #### Animação Realizada com SVG da Logo utilizando os recursos de Keyframes no CSS.
 
