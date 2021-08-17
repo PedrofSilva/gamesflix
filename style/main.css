@@ -173,6 +173,7 @@ header nav a:hover{
     margin: auto;
     margin-top: 50px;
     fill-opacity: 0;
+    stroke-width: 2px;
     animation: svgAnimationfillOpacity 0.8s forwards;
     animation-delay: 2.8s;
 }
