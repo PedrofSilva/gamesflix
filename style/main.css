@@ -238,7 +238,7 @@ header nav a:hover{
 
 @keyframes svgAnimationGamesFlix {
     0% {
-        stroke-dashoffset: 600;
+        stroke-dashoffset: 1000;
         stroke-opacity: 0;
     }
     100% {
