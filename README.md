@@ -2,7 +2,16 @@
 
 <p> Recriando a interface Netflix com uma roupagem de Games. </p>
 <p> O usuário ao clicar no jogo desejado é apresentado um breve trailer do jogo na parte central da tela. </p>
-<p>Com um Carousel para facilitar a dinâmica de selecionar o jogo.</p>
+<p> Com um Carousel para facilitar a dinâmica de selecionar o jogo.</p>
+
+<br>
+
+## Contendo uma Breve Animação de início
+
+#### Animação Realizada com SVG da Logo utilizando os recursos de Keyframes no CSS.
+
+#### Efeitos de FadeIn e FadeOut nos Títulos dos jogos e na troca de vídeos. Dando suavidade na mudança de um jogo para outro.
+#### Os vídeos e o s títulos são aterados dinâmicamente via src pelo Jquery.
 
 <br>
 
