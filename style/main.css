@@ -213,6 +213,10 @@ header nav a:hover{
         margin-top: -5%;
     }
 
+    .botao , .botao-info{
+        font-size: 12px;
+    }
+
     .animacao-logo-gamesflix , .svg-play-gamesflix , .svg-gamesflix {
         margin-top: 100px;
         width: 150px;
